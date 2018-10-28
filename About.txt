@@ -1,0 +1,12 @@
+The game Snakes and Ladders has enthralled generations of children, and gone through a few name changes along the way. 
+I thought that I could use the intricacies of the subject to make a more entertaining and interactive project. 
+
+A data structure is an arrangement of data in a computer's memory or even disk storage. 
+An example of several common data structures are arrays, linked lists, binary trees, and hash tables etc. 
+I intended to make our project different from others by using various functions.
+
+The object of the game is to be the first player to reach the end by moving across the board from square one to the final square. 
+Most boards wrap back and forth, so you move left to right across first row, then move up to the second and move right to left, and so on.
+
+My aim with this project is to develop a better understanding about the subject data structures and algorithm and understand how they work
+together and help us in solving major real world problems in this case the game of snakes and ladders.
